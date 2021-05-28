@@ -1,6 +1,6 @@
 {
-    "baseUrl": {
-        "memes": "https://memy.jeja.pl",
-        "jokes": "https://dowcipy.jeja.pl"
+    "url": {
+        "memes": "https://memy.jeja.pl/losowe",
+        "jokes": "https://dowcipy.jeja.pl/losowe"
     }
 }

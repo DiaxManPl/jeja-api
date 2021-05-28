@@ -4,7 +4,7 @@
   "description": "Simple unofficial https://jeja.pl wrapper to get random memes and jokes",
   "main": "src/index.js",
   "scripts": {
-    "dev": "nodemon ."
+    "dev": "nodemon test.js"
   },
   "repository": {
     "type": "git",
