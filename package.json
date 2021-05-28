@@ -1,0 +1,29 @@
+{
+  "name": "jeja-api",
+  "version": "1.0.0",
+  "description": "Simple jeja wrapper",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiaxManPl/jeja-api.git"
+  },
+  "keywords": [
+    "jeja",
+    "jeja-api",
+    "memes",
+    "jokes"
+  ],
+  "author": "DiaxManPl <diaxman.gameplay@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiaxManPl/jeja-api/issues"
+  },
+  "homepage": "https://github.com/DiaxManPl/jeja-api#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9"
+  }
+}
