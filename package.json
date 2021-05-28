@@ -1,10 +1,10 @@
 {
   "name": "jeja-api",
   "version": "1.0.0",
-  "description": "Simple jeja wrapper",
+  "description": "Simple unofficial https://jeja.pl wrapper to get random memes and jokes",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon ."
   },
   "repository": {
     "type": "git",
